@@ -1,0 +1,10 @@
+C:\Users\Ilhan\source\repos\GorselCalisma2\bin\Debug\GorselCalisma2.exe.config
+C:\Users\Ilhan\source\repos\GorselCalisma2\bin\Debug\GorselCalisma2.exe
+C:\Users\Ilhan\source\repos\GorselCalisma2\bin\Debug\GorselCalisma2.pdb
+C:\Users\Ilhan\source\repos\GorselCalisma2\obj\Debug\GorselCalisma2.csproj.AssemblyReference.cache
+C:\Users\Ilhan\source\repos\GorselCalisma2\obj\Debug\GorselCalisma2.Form1.resources
+C:\Users\Ilhan\source\repos\GorselCalisma2\obj\Debug\GorselCalisma2.Properties.Resources.resources
+C:\Users\Ilhan\source\repos\GorselCalisma2\obj\Debug\GorselCalisma2.csproj.GenerateResource.cache
+C:\Users\Ilhan\source\repos\GorselCalisma2\obj\Debug\GorselCalisma2.csproj.CoreCompileInputs.cache
+C:\Users\Ilhan\source\repos\GorselCalisma2\obj\Debug\GorselCalisma2.exe
+C:\Users\Ilhan\source\repos\GorselCalisma2\obj\Debug\GorselCalisma2.pdb
